@@ -1,4 +1,4 @@
-# Hi there, I'm [Wali Muhammad] 👋
+# Hi there, I'm Wali Muhammad 👋
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/77934276?v=4)
 
