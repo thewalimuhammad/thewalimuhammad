@@ -1,6 +1,6 @@
 # Hi there, I'm Wali Muhammad 👋
 
-![Profile Banner](https://avatars.githubusercontent.com/u/77934276?v=4)
+#![Profile Banner](https://avatars.githubusercontent.com/u/77934276?v=4)
 
 I'm a passionate software developer specializing in **Node.js** and **React.js**. Welcome to my GitHub profile!
 
