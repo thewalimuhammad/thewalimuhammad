@@ -6,7 +6,7 @@ I'm a passionate software developer specializing in **Node.js** and **React.js**
 
 ## About Me
 
-- 🔭 I’m currently working on Project (https://github.com/mshoaibanwar/LaundryHub)
+- 🔭 We completed our final year project at the end of May (https://github.com/mshoaibanwar/LaundryHub)
 - 🌱 I’m currently learning Nodejs, Javascript, Web development
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with basic web development
