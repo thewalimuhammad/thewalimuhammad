@@ -10,6 +10,6 @@ I'm a passionate software developer specializing in **Node.js** and **React.js**
 - 🌱 I’m currently learning Nodejs, Javascript, Web development
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I’m looking for help with basic web development
-- 💬 Ask me about **JavaScript**, **Node.js**, **React.js**, and **Web Development**
+- 💬 Ask me about **JavaScript**, **Node.js**, and **Web Development**
 - 📫 How to reach me: walimalik496@gmail.com
-- ⚡ Fun fact: Testing
+- ⚡ Fun fact: Debugging and Testing
