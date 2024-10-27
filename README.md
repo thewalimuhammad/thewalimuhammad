@@ -2,7 +2,7 @@
 
 
 
-I'm a passionate software developer specializing in **Node.js** and **React.js**. Welcome to my GitHub profile!
+I'm a passionate software developer specializing in **Node.js**. Welcome to my GitHub profile!
 
 ## About Me
 
